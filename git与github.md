@@ -15,8 +15,8 @@ git的工作流程：
 在本地仓库对文件进行操作，同步到远程仓库：点击仓库，右键GUI，选择文件（变动GUI自动查找），点击stage changed,添加备注信息，再点击commit,最后push,显示succee后即同步。
 
 远程仓库有变动，同步到本地：点击本地仓库，GUI
-1，	上菜单Remote-Fetch from-origin
-2，	上菜单Merge-Local Merge
+1，上菜单中Remote到Fetch from再到origin
+2，上菜单中Merge到Local Merge
 即同步完成
 
 第二，仓库中文档操作：
